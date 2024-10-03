@@ -33,7 +33,7 @@ public class Main {
         }
 
 
-        for (int i = 7; i <= 98; i += 4) {
+        for (int i = 7; i <= 98; i += 7) {
             System.out.println(i);
         }
 
